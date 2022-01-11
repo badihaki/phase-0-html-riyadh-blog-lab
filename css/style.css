@@ -26,7 +26,8 @@ body {
 
 h1, h2 {
   font-family: 'Gabriela', serif;
-  color: #fff;
+  color: lavenderblush;
+  text-align: center;
 }
 
 h1 {
@@ -43,6 +44,14 @@ h3 {
   font-family: 'Gabriela', serif;
   font-size: 1.5em;
   margin-top: .5em;
+}
+h4{
+  font-family: 'Gabriela', serif;
+  font-size: 1.0em;
+  margin-top: -1.0em;
+  margin-bottom: 1.0em;
+  text-align: center;
+  color: lavenderblush;
 }
 
 img {
